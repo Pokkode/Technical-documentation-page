@@ -12,3 +12,7 @@ To build an app that is functionally similar to https://technical-documentation-
 
 **Server:** Github
 
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/yY94YRxW/IMG-20220809-052948.jpg)
+
