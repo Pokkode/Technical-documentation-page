@@ -20,3 +20,7 @@ To build an app that is functionally similar to https://technical-documentation-
 
 https://pokkode.github.io/Technical-documentation-page/
 
+## Authors
+
+- [@Princewill Kalu Orie](https://www.github.com/pokkode)
+
