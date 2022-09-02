@@ -28,3 +28,7 @@ https://pokkode.github.io/Technical-documentation-page/
 
 - mobile responsive
 
+## Skills
+
+HTML, CSS
+
