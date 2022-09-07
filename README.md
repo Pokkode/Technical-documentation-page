@@ -24,6 +24,10 @@ https://pokkode.github.io/Technical-documentation-page/
 
 - [@Princewill Kalu Orie](https://www.github.com/pokkode)
 
+## Acknowledgements
+
+- [freecodecamp.org](https://www.freecodecamp.org)
+
 ## Features
 
 - mobile responsive
